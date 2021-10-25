@@ -3,18 +3,18 @@
     "product_id":"1"
     "name":"Michel & Michèle",
     "lat":48.7402023364985,
-    "lon":-1.4542050867615581,
+    "lon":-1.4542050867615581
   },
   "producteur_2":{
     "product_id":"2"
     "name":"Producteur 2",
     "lat":48.73967888879437,
-    "lon":0.14612971323839533,
+    "lon":0.14612971323839533
   },
   "producteur_3":{
     "product_id":"3"
     "name":"Producteur 3",
     "lat":49.7608082,
-    "lon":0.3710749,
+    "lon":0.3710749
   }
 }
