@@ -1,23 +1,20 @@
 {
   "producteur_1":{
-    "id":"1",
+    "product_id":"1"
+    "name":"Michel & Michèle",
     "lat":48.7402023364985,
     "lon":-1.4542050867615581,
-    "name":"Michel & Michèle",
-    "product_id":1
   },
   "producteur_2":{
-    "id":"2",
+    "product_id":"2"
+    "name":"Producteur 2",
     "lat":48.73967888879437,
     "lon":0.14612971323839533,
-    "name":"Producteur 2",
-    "product_id":2
   },
   "producteur_3":{
-    "id":"3",
+    "product_id":"3"
+    "name":"Producteur 3",
     "lat":49.7608082,
     "lon":0.3710749,
-    "name":"Producteur 3",
-    "product_id":3
   }
 }
